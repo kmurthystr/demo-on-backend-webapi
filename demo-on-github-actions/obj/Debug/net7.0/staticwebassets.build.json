@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o2OqvPX2pRo16/i4uC1KNJ4WziXQueZufypQ774r4nU=",
+  "Source": "demo-on-github-actions",
+  "BasePath": "_content/demo-on-github-actions",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
